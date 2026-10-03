@@ -3,6 +3,6 @@ Software inspired by ethical hackers. I am not responsible for the consequences 
 
 pkg update && pkg upgrade -y
 pkg install python git curl dnsutils net-tools -y
-git clone <LIEN_DE_TON_REPO_GITHUB>
+git clone https://github.com/mhathebeyondfangame-source/vortex-on-termux.git
 cd vortex
 python main.py
